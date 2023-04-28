@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import { Card, FormField, Loader } from "../components";
+import { Loader } from "../components";
+import { Card, FormField } from "../components/home";
 import { toast } from "react-toastify";
 
 const RenderCards = ({ data, title, deletePost }) => {

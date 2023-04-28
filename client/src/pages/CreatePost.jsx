@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { toast } from "react-toastify";
-import { FormField, Loader } from "../components";
+import { Loader } from "../components";
+import { FormField } from "../components/home";
 import { TbPhoto } from "react-icons/tb";
 import { getRandomPrompt } from "../utils";
 import { useNavigate } from "react-router-dom";
