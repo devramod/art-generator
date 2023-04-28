@@ -1,4 +1,4 @@
-# MERN Stack Image Generation Application
+# MERN Stack Image Generating Application
 This is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack that generates images using OpenAI's GPT-3 API.
 
 ## Table of Contents
